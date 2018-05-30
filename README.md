@@ -1,1 +1,1 @@
-Calibration Software
+PyQt5 Base Application
